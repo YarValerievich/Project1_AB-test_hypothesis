@@ -1,6 +1,6 @@
 # Prioritization of hypotheses and A/B-test analysis for an online store.
 
-I recommend checking out the project at ![the following link](https://nbviewer.org/github/YarValerievich/Project1_AB-test_hypothesis/blob/main/Project1_AB-test_hypothesis.ipynb).
+I recommend checking out the project at [the following link](https://nbviewer.org/github/YarValerievich/Project1_AB-test_hypothesis/blob/main/Project1_AB-test_hypothesis.ipynb).
 ## Purpose: 
 Using the data of the online store, prioritize the hypotheses and evaluate the results of A/B-testing using various methods.
 ## Description:

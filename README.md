@@ -1,3 +1,4 @@
+<body>
 <h1 align="center"> Prioritization of hypotheses and A/B-test analysis for an online store. </h1>
 
 I recommend checking out the project at [the following link](https://nbviewer.org/github/YarValerievich/Project1_AB-test_hypothesis/blob/main/Project1_AB-test_hypothesis.ipynb).
@@ -23,4 +24,4 @@ The decision has been made to stop the test and declare the victory of Group B s
 - scipy
 - A/B-testing
 - statistical hypotheses testing
-
+</body>

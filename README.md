@@ -4,9 +4,7 @@ I recommend checking out the project at [the following link](https://nbviewer.or
 ## Purpose: 
 Using the data of the online store, prioritize the hypotheses and evaluate the results of A/B-testing using various methods.
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <h1>Description: </h1>
-</div>
+<p align="center">Description: </p>
 
 The hypotheses were prioritized using ICE and RICE frameworks. An analysis of the A/B test results was conducted, and graphs of cumulative revenue, average check, and conversion rates were plotted by group. The statistical significance of differences in conversions and average check between raw and cleansed data was calculated.
 ## Result:

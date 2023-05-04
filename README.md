@@ -1,17 +1,18 @@
-# Project1_AB-test_hypothesis
- 
-# Yandex.Practicum_projects
-В этом репозитории можно ознакомиться с моими проектными работами.
-**Название** | **Цель** | **Описание** | **Технологии** | **Результат** 
---- | --- | --- | --- | ---
-Проект 1. Приоритизация гипотез и анализ A/B теста для интернет-магазина. | Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования и принять решение. | Гипотезы приоритезированы по фреймворкам ICE и RICE. Проведен анализ результатов A/B-теста, построены графики кумулятивной выручки, среднего чека, конверсии по группам. Посчитана статистическая значимость различий конверсий и средних чеков по сырым и очищенным данным. | Python, Pandas, Seaborn, Numpy, SciPy, A/B-тестирование, проверка статистических гипотез. | Принято решение остановить тест и зафиксировать статистически значимый прирост конверсии в группе B на уровне значимости 95%. 
-Проект 2. Метрики и когортный анализ, оптимизация маркетинговых затрат Яндекс.Афиши. | На основе данных о посещениях сайта Яндекс.Афиши изучить, как люди пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, когда он окупается. | Проведен анализ данных от Яндекс.Афиши целью оптимизации маркетинговых затрат. Рассчитаны метрики LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI. | Python, Pandas, Seaborn, Numpy, когортный анализ, продуктовые метрики, юнит-экономика. | На основе метрик определены самые перспективные когорты клиентов и источники трафика, на которые стоит сделать упор.
-Проект 3. Проверка гипотез, определение перспективного тарифа для телеком компании | На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и определить перспективный тариф. | Проведена предобработка данных (исправлены ошибки, обработаны пропуски). Проанализировано поведение клиентов при использовании услуг оператора, определены оптимальные наборы услуг для пользователей. Проверены гипотезы о различии выручки абонентов разных тарифов и различии выручки абонентов из Москвы и других регионов. | Python, Pandas, Seaborn, Numpy, SciPy, проверка статистических гипотез. | Определен перспективный тариф.
+# Prioritization of hypotheses and A/B-test analysis for an online store.
 
-Контактные данные:
+I recommend checking out the project at ![the following link](https://nbviewer.org/github/YarValerievich/Project1_AB-test_hypothesis/blob/main/Project1_AB-test_hypothesis.ipynb).
+## Purpose: 
+Using the data of the online store, prioritize the hypotheses and evaluate the results of A/B-testing using various methods.
+## Description:
+The hypotheses were prioritized using ICE and RICE frameworks. An analysis of the A/B test results was conducted, and graphs of cumulative revenue, average check, and conversion rates were plotted by group. The statistical significance of differences in conversions and average check between raw and cleansed data was calculated.
+## Result:
+The decision has been made to stop the test and declare the victory of Group B since the alternative hypothesis shows no changes in average check but there is a 15% increase in conversion.
+## Stack of technologies:
+- python
+- pandas
+- pyplot
+- numpy
+- scipy
+- A/B-testing
+- statistical hypotheses testing
 
-Телефон: 
-
-Почта: 
-
-Телеграм: 
